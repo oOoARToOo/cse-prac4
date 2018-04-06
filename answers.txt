@@ -1,0 +1,29 @@
+What branches exist in this project?
+
+bower
+index
+landing
+landing-ru
+master
+package
+
+also, locally there exists answers branch which I just created
+
+What branch has been merged into master?
+
+index
+
+How many commits (in total) does the repository have?
+
+16
+
+What commits belong to branch package that don't belong to the branch master?
+
+daa9e63
+8bfb714
+6645414
+cab8d80
+97ac604
+2be96ed
+7323e88
+5cb1d7e
